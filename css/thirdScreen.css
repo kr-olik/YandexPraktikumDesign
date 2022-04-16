@@ -68,10 +68,15 @@
 
 .item-setting {
 	display: flex;
+	background-color: #252A2E;
 	justify-content: space-between;
 	align-items: center;
 	color: #FFFFFF;
 	font-family: 'Jost';
 	font-style: normal;
 	height: 56px;
+}
+
+.item-setting:hover {
+	background-color: #404348;
 }

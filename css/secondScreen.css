@@ -97,3 +97,11 @@
 	display: block;
   	margin: 0 auto;
 }
+
+.menu-item {
+	background-color: #252A2E;
+}
+
+.menu-item:hover {
+	background-color: #404348;
+}
